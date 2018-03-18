@@ -1,0 +1,50 @@
+Lowest temperature by year and place:
+2000	-33.1	Miercurea Ciuc
+2001	-31.6	Miercurea Ciuc
+2002	-31.9	Miercurea Ciuc
+2003	-30.2	Miercurea Ciuc
+2004	-31.6	Miercurea Ciuc
+2005	-31.2	Miercurea Ciuc
+2006	-33.3	Miercurea Ciuc
+2007	-23.8	Botosani
+2008	-27.4	Varfu Omu
+2009	-25.8	Miercurea Ciuc
+2010	-31.9	Miercurea Ciuc
+2011	-24.6	Miercurea Ciuc
+2012	-29.2	Miercurea Ciuc
+2013	-26.2	Miercurea Ciuc
+2014	-26.5	Varfu Omu
+2015	-29.3	Miercurea Ciuc
+2016	-24.0	Varfu Omu
+------------------------------
+Coldest days in 2016:
+03 January -11.5
+20 January -10.6
+24 January -10.5
+02 January -9.8
+23 January -9.2
+------------------------------
+2014/03/18
+	Varfu Omu, -5.3
+	Ceahlau Toaca, -1.8
+	Miercurea Ciuc, 7.5
+	Arad, 9.0
+	Ocna Sugatag, 9.1
+	Caransebes, 9.2
+	Sulina, 9.2
+	Cluj-Napoca, 10.6
+	Deva, 10.6
+	Bacau, 10.8
+	Sibiu, 10.9
+	Iasi, 11.3
+	Ramnicu Valcea, 11.3
+	Constanta, 11.4
+	Botosani, 11.5
+	Calarasi, 12.0
+	Rosiorii de Vede, 12.0
+	Bucuresti-Baneasa, 12.2
+	Galati, 12.6
+	Tulcea, 13.0
+	Buzau, 13.7
+	Craiova, 14.3
+	Drobeta Turnu Severin, 15.4
